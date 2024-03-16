@@ -34,6 +34,10 @@ To run the calculator on your local machine, follow these steps:
    ```bash
    python calculator.py
    ```
+# Example
+![Gradio UI](/assets/dis.png)
+![Gradio UI](/assets/div.png)
+![Gradio UI](/assets/square.png)
 
 4. Open your web browser and navigate to the provided URL.
 
